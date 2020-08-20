@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile= /Users/XYZ/Desktop/aa PUBLICIS SAPIENT/maven/maven-quick-start\words/local.jar -DgroupId=poi -DartifactId=poi -Dpackaging=jar -Dversion=1.0
