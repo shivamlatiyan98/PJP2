@@ -1,0 +1,33 @@
+body {
+    /*clear:float;*/
+    background-color:gray;
+}
+
+
+input[type=submit]{
+    color:white;
+    background-color:red;
+
+    border:0px;
+}
+
+fieldset{
+    display:inline;
+    width:auto;
+}
+
+a{ color:white;}
+
+#div1{
+    position: absolute;
+    text-align:center;
+    margin-right: auto; margin-left: auto; width:100%;
+    color:red
+    /*width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+    background: red;*/
+}
